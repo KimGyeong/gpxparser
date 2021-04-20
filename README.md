@@ -1,4 +1,4 @@
-##GPX Parser
+## GPX Parser
 
 Read a GPX file then extract longitude and latitude values.
 
